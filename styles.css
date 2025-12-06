@@ -33,7 +33,6 @@ article {
 .card-container {
    width: 100%;
    max-width: 384px;
-   min-width: 327px;
    outline: 1px solid var(--gray-950);
    background-color: var(--white);
    border-radius: 20px;
@@ -123,4 +122,5 @@ article {
    .card-container__content__description {
       font-size: 14px;
    }
+
 }
